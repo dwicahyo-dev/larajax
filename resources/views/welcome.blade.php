@@ -101,6 +101,8 @@
         </div>
     </div>
 
+    @include('form')
+
 </div> <!-- /container -->
 
 
